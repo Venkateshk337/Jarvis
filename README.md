@@ -24,7 +24,11 @@ It allows users to type or speak their requests, generates Python code using Ope
 
 ## 📂 Project Structure
 ├── jarvis.py # Main Streamlit app
+
 ├── prompt.py # Custom system prompt for Jarvis
+
 ├── config.py # Stores API key securely
+
 ├── requirements.txt # Dependencies
+
 └── README.md # Documentation
